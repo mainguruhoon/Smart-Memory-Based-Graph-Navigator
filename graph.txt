@@ -1,0 +1,20 @@
+NODES 8
+Agra
+Amritsar
+Chandigarh
+Delhi
+Jaipur
+Lucknow
+Mumbai
+Shimla
+EDGES
+Agra Delhi 200
+Agra Lucknow 335
+Amritsar Chandigarh 230
+Chandigarh Delhi 250
+Chandigarh Shimla 115
+Delhi Jaipur 280
+Delhi Lucknow 555
+Jaipur Mumbai 1150
+Lucknow Mumbai 1400
+END
