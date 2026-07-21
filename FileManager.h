@@ -7,6 +7,8 @@
 #include <stdexcept>
 using namespace std;
 
+//this is header file for FileManager class which is used to save and load graph data to/from a file
+
 class FileManager : public PathFinder {
 public:
 

@@ -9,6 +9,7 @@
 #include <iostream>
 #include <stdexcept>
 using namespace std;
+// Graph class represents a graph data structure with nodes and edges
 
 class Graph : public GraphEntity {
 protected:

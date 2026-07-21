@@ -6,6 +6,7 @@
 using namespace std;
 
 // Abstract Base Class
+
 class GraphEntity {
 public:
     virtual void display() const = 0;
