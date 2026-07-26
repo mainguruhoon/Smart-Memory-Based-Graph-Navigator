@@ -5,7 +5,6 @@
 #include <string>
 using namespace std;
 
-// Abstract Base Class
 
 class GraphEntity {
 public:
