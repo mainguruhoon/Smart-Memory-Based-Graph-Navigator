@@ -1,5 +1,5 @@
 #ifndef GRAPH_H // this line is for the preprocessor to check if GRAPH_H is already defined
-#define GRAPH_H // if not defined, define it and include the contents of this file
+#define GRAPH_H 
 
 #include "Node.h"
 #include "GraphEntity.h"
